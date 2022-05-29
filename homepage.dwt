@@ -1,0 +1,78 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="sv">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<!-- #BeginEditable "doctitle" -->
+<title>Homepage</title>
+<!-- #EndEditable -->
+<meta name="Microsoft Theme" content="none">
+<script language="JavaScript">
+<!--
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+</head>
+
+<body onload="FP_preloadImgs(/*url*/'button8.jpg', /*url*/'button9.jpg', /*url*/'buttonB.jpg', /*url*/'buttonC.jpg', /*url*/'button22.gif', /*url*/'button23.gif')" background="star.gif">
+
+<p align="center">https://www.youtube.c</p>
+<p align="center">
+<img src="https://web.archive.org/web/20091026055108/http://geocities.com/Pentagon/9272/pentagram2.gif" title="pentagon 9272 pentagram 2" width="72" height="74"><u><font face="Algerian" size="7" color="#FFFFFF">Welcome 
+to rare heavy metal!</font></u><img src="https://web.archive.org/web/20091026055108/http://geocities.com/Pentagon/9272/pentagram2.gif" title="pentagon 9272 pentagram 2" width="72" height="74"></p>
+<p align="center"><font size="4" color="#FFFFFF">This website is dedicated to 
+rare heavy metal from the 80's (Heavy, Speed, Death, trash etc.). i have gained 
+a lot of rare releases from bands over the years and i want to upload it to the 
+web for you to enjoy!</font></p>
+<p align="center">&nbsp;</p>
+<p align="center"><font size="6" face="Algerian" color="#FFFFFF">About me</font></p>
+<div style="border-style: solid; border-width: 1px; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px">
+	<p align="center"><font size="4" color="#FFFFFF">My name is Fredrik and i'm 
+	from sweden. I have been a metal fan since 1977 when i was 10 years old and 
+	got love gun by kiss. when i was 14 in 1981 i heard Welcome to hell by venom 
+	and was hooked on extreme metal. 1 year later my favourite album ever was 
+	released and that is black metal by venom. my favourite genres in metal are 
+	traditional heavy metal, speed metal, deathtrash (like sarcofago, sepultura 
+	etc.) and german trash metal like (kreator, sodom and destruction.) </font>
+</div>
+<p align="center"><font size="5" color="#FFFFFF">Some of my favourite records of 
+all time:</font></p>
+<p align="center"><font color="#FFFFFF">
+<img role="button" aria-label="Toggle Zoom" src="NC02MzkxLmdpZg.jpeg" alt="" width="166" height="164" loading="lazy">&nbsp;
+<img src="https://lastfm.freetls.fastly.net/i/u/770x0/8b5973f3e9c54983ad0387b68582a91c.jpg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Venom - Black Metal Artwork (1 of 33) | Last.fm" data-noaft="1" style="width: 167px; height: 164px; margin: 0px">&nbsp;
+<img role="button" aria-label="Toggle Zoom" src="https://i.discogs.com/cXGlzCsWIyZx9Di8_IFzE1oCbI40w8dGk4VAuMleS6M/rs:fit/g:sm/q:90/h:303/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjIz/Mi0xMzg1NjcyNzc2/LTQ0NjkuanBlZw.jpeg" alt="" width="161" height="164" loading="lazy">&nbsp;
+<img role="button" aria-label="Toggle Zoom" src="https://i.discogs.com/6lU9FFrV8eVrqvHY8eYhVhx3MYfRNAVXNTYmp4D2VuI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTkz/My0xNjI5NTYxNzkx/LTkzMDIuanBlZw.jpeg" alt="" width="161" height="163" loading="lazy">&nbsp;
+<img class="loaded" src="https://i.discogs.com/jDXajbOyUz4_Gf_PB6fyp8BP5hpKxfuVJ00B9Y4_0zg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYw/MjctMTQ0MDQyMDM4/Ni03NjU2LmpwZWc.jpeg" data-src="https://i.discogs.com/jDXajbOyUz4_Gf_PB6fyp8BP5hpKxfuVJ00B9Y4_0zg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYw/MjctMTQ0MDQyMDM4/Ni03NjU2LmpwZWc.jpeg" width="165" height="163">&nbsp;
+<img class="loaded" src="https://i.discogs.com/BnWvRivnfJ8uVV6_7LzYKI8qyIB1ops_R71VSS128Mc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjc1/NjItMTUyMDYxNTc5/OS03NjM3LmpwZWc.jpeg" data-src="https://i.discogs.com/BnWvRivnfJ8uVV6_7LzYKI8qyIB1ops_R71VSS128Mc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjc1/NjItMTUyMDYxNTc5/OS03NjM3LmpwZWc.jpeg" width="165" height="163"></font></p>
+<a hreflang="en" class="link_1ctor thumbnail_32ntz" href="https://www.discogs.com/release/2899835-Gotham-City-The-Unknown/image/SW1hZ2U6OTEyNDA3Mw==">
+</a>
+<p align="center">&nbsp;</p>
+<p align="center"><font size="6" color="#FFFFFF" face="Algerian">Download 
+Section</font></p>
+<p align="center">&nbsp;</p>
+<p align="center"><a href="demos.htm"><font color="#FFFFFF">
+<img border="0" id="img6" src="button21.gif" height="60" width="300" alt="Demos" fp-style="fp-btn: Brick Column 3; fp-font-size: 26; fp-transparent: 1" fp-title="Demos" onmouseover="FP_swapImg(1,0,/*id*/'img6',/*url*/'button22.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img6',/*url*/'button21.gif')" onmousedown="FP_swapImg(1,0,/*id*/'img6',/*url*/'button23.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img6',/*url*/'button22.gif')"></font></a><u><font face="Algerian" size="7" color="#FFFFFF"><img border="0" id="img4" src="button7.jpg" height="60" width="300" alt="EP's/Singels" fp-style="fp-btn: Brick Column 3; fp-font-size: 26" fp-title="EP's/Singels" onmouseover="FP_swapImg(1,0,/*id*/'img4',/*url*/'button8.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img4',/*url*/'button7.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img4',/*url*/'button9.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img4',/*url*/'button8.jpg')"><img border="0" id="img5" src="buttonA.jpg" height="60" width="300" alt="LP's" onmouseover="FP_swapImg(1,0,/*id*/'img5',/*url*/'buttonB.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img5',/*url*/'buttonA.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img5',/*url*/'buttonC.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img5',/*url*/'buttonB.jpg')" fp-style="fp-btn: Brick Column 3; fp-font-size: 26" fp-title="LP's"></font></u></p>
+<p align="center"><font color="#FFFFFF">Click on the category you want to see.</font></p>
+
+</body>
+
+</html>
